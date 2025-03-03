@@ -16,7 +16,7 @@ pipeline{
         
         stage('Code'){
             steps{
-                echo 'Start cloning'
+                echo 'Start cloning the code from github'
                 script{
                     clone("https://github.com/DeVeNdRa1910/django-notes-app.git/", "main")
                 }
