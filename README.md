@@ -1,4 +1,4 @@
-# Simple Notes App for learning Jenkins
+# Simple Notes App for learn Jenkins
 This is a simple notes app built with React and Django.
 
 ## Requirements
