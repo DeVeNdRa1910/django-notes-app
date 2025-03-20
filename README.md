@@ -1,4 +1,4 @@
-# Simple Django Notes App 
+# Simple Django Notes App for store your important notes online
 This is a simple notes app built with React and Django.
 You can store your notes
 
