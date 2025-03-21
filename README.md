@@ -26,6 +26,11 @@ docker run -d -p 8000:8000 notes-app:latest
 ```
 docker compose up -d
 ```
+4. Cleanup function
+```
+docker compose down
+```
+
 
 ## Nginx
 
